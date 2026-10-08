@@ -1,6 +1,6 @@
 # Hi, I'm George 👋
 
-Computer Science and Engineering undergrad at **Ohio State**, interested in **AI and robotics**.
+Computer Science and Engineering freshman at **Ohio State**, interested in **AI and robotics**.
 
 ## 🎸 What I'm working on
 - Building **Vielle**, a guitar tab generator, with plans to add RAG and a fine-tuned LLM
